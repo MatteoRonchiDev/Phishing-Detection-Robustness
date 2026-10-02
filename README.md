@@ -97,7 +97,7 @@ University project developed by:
  
 ## How to Run
  
-* **On Google Colab:** open the notebook with the *Open in Colab* badge at the top of this page and run all cells with *Runtime > Run all*. The dataset is downloaded automatically from the UCI Machine Learning Repository. Since every experiment retrains both models over 10 splits, a full run takes some time.
+* **On Google Colab:** open the notebook with the *Open in Colab* badge at the top of this page and run all cells with *Runtime > Run all*. The dataset is downloaded automatically from the UCI Machine Learning Repository. Since every experiment retrains both models over 10 splits, a full run takes some time. 
  
 Neural Network training is not fully deterministic, so re-running the notebook may give slightly different values from those reported above.
  
