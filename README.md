@@ -2,7 +2,7 @@
  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tentorifrancescaDev/phishing-detection-robustness/blob/main/Progetto_AD.ipynb)
  
-**Phishing Detection Robustness** is a study of how Machine Learning models for phishing website detection behave when their input data is imperfect or deliberately manipulated. A **Decision Tree** and a **Neural Network** are trained on the UCI PhiUSIIL Phishing URL dataset and then tested under four data corruption techniques, from random missing values to a targeted **mimicry evasion attack**. The project was developed as a university assignment for the Data Architecture course (Use Case: *Data Management for Machine Learning*) of the Master's Degree in Computer Science at the University of Milano-Bicocca (A.Y. 2025-2026).
+**Phishing Detection Robustness** is a study of how Machine Learning models for phishing website detection behave when their input data is imperfect or deliberately manipulated. A **Decision Tree** and a **Neural Network** are trained on the UCI PhiUSIIL Phishing URL dataset and then tested under four data corruption techniques, from random missing values to a targeted **mimicry evasion attack**. The project was developed as a university assignment for the Data Architecture course.
  
 ---
  
